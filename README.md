@@ -33,13 +33,17 @@
 - Created a query to populate test data
 - Finished Development of the profile page and queries
 
+## Final Week 
+- Finished deployment
+- Fixed bugs in login and register pages
+
 ---
 
-## Contributors:       
+## Contributors: 
+	Caleb Kumar		cekcreator
 	Clayton Dwyer		Narrosh
 	Jesse Black		jebl8843
 	Tyson Trofino		Tyson-Trofino
-	Caleb Kumar		cekcreator
 	Joseph Kneusel		jkneusel
 	Simon Walker		simondoesstuff
 
@@ -49,10 +53,6 @@
 	***Further to be announced***
 	
 ## Prerequisites:
-**TBA**
+Node.js Docker.
 ## Instructions to run locally:
-**TBA**
-## Instructions to run tests:
-**TBA**
-## Link to deployed version:
-**TBA**
+Download the code, start the docker container, run localhost:3000
