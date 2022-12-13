@@ -50,7 +50,8 @@
 ## Technology Stack:
 	Node.js
 	Express.js
-	***Further to be announced***
+	Docker
+	PostgreSQL
 	
 ## Prerequisites:
 Node.js Docker.
